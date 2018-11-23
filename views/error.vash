@@ -1,0 +1,9 @@
+@html.extend('layout',function(model){
+
+@html.block('body',function(model){
+<div ng-controller="indexController">
+    <h1>Fucked it</h1>
+</div>
+
+});
+});

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <script type="text/javascript" src="/public/angular/deploy/angular.js"></script>
+    <title>@model.title</title>
+    <link rel="stylesheet" href="../public/stylesheets/style.css">
+    <script src="../public/angular/angular_setup.js"></script>
+</head>
+<body ng-app="myCricketHero">
+@html.block('body')
+</body>
+</html>
